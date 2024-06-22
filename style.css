@@ -10,7 +10,7 @@
 
 .photo {
    height: 40%;
-   padding: 30px;
+   padding: 20px;
    /* Для того, чтобы высота .photo включала в себя padding,
    вы можете использовать box-sizing: border-box; */
    box-sizing: border-box;
@@ -22,7 +22,7 @@
 }
 
 .info {
-   padding: 40px;
+   padding: 20px;
    height: 40%;
 }
 
